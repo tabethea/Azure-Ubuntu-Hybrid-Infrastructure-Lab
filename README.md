@@ -1,4 +1,4 @@
-# Ubuntu-Azure-Hybrid-Lab
+# Azure Ubuntu Hybrid Infrastructure Lab
 
 ## Description
 This repository contains a step by step walkthrough of how I built a hybrid cloud monitoring and security lab using Ubuntu Server, UFW, NGINX, Fail2Ban, Azure Arc, and Log Analytics. In this project, I deployed an on-premises Ubuntu VM in Oracle VirtualBox, hardened it with system updates, a host-based firewall (UFW), SSH hardening, and Fail2Ban, and hosted a secure HTTPS web server using NGINX with a self-signed TLS certificate.
