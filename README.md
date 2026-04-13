@@ -20,7 +20,7 @@ I then connected the server to Microsoft Azure using Azure Arc, configured a Log
 - <b>Microsoft Azure</b>
 
 ## Diagram
-<img width="1251" height="696" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/4832f37a-fee0-4942-ae1b-c048125d5b83" />
+<img width="1251" height="696" alt="Untitled Diagram drawio (1)" src="https://github.com/user-attachments/assets/e76b636d-6bc3-49d4-b010-a91e810108ad" />
 
 
 
